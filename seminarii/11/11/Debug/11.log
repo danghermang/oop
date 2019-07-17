@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\facultate\an 1 sem 2\programare orientata obiect\seminarii\11\11\source.cpp(5): warning C4101: 'y': unreferenced local variable
+d:\facultate\an 1 sem 2\programare orientata obiect\seminarii\11\11\source.cpp(5): warning C4101: 'x': unreferenced local variable
+d:\facultate\an 1 sem 2\programare orientata obiect\seminarii\11\11\source.cpp(5): warning C4101: 'i': unreferenced local variable
+  Header.cpp
+  Generating Code...
+  11.vcxproj -> D:\Facultate\an 1 sem 2\Programare orientata obiect\seminarii\11\Debug\11.exe

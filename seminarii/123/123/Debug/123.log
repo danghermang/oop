@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  123.cpp
+d:\facultate\an 1 sem 2\programare orientata obiect\seminarii\123\123\123.cpp(17): error C2440: '=': cannot convert from 'int' to 'int *'
+  d:\facultate\an 1 sem 2\programare orientata obiect\seminarii\123\123\123.cpp(17): note: Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+d:\facultate\an 1 sem 2\programare orientata obiect\seminarii\123\123\123.cpp(24): error C2059: syntax error: '}'
+d:\facultate\an 1 sem 2\programare orientata obiect\seminarii\123\123\123.cpp(24): error C2143: syntax error: missing ';' before '}'
